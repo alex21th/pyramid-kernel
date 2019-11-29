@@ -47,7 +47,7 @@ Here is a brew description of the attached files in the delivery folder:
 
 - `data/results128.csv`, `data/results64.csv`: two `.csv` files including all the results for our experimentations shown in the paper
 
-- `images/hist1.jpg`, `images/hist2.jpg`: two random images used for the visualization of histogram intersection in `Visualization.ipynb``
+- `images/hist1.jpg`, `images/hist2.jpg`: two random images used for the visualization of histogram intersection in `Visualization.ipynb`
 
 - `Visualization.ipynb`: IPython notebook used to generate all different plottings in the paper
 
